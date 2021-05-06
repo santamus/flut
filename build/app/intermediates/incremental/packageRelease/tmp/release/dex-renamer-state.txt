@@ -1,0 +1,4 @@
+#Thu May 06 23:41:26 MSK 2021
+base.0=C\:\\GayDev\\itr-mess\\messenger\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
